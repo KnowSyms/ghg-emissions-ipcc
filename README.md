@@ -1,4 +1,4 @@
-# Emissions of greenhouse gases according to IPCC guide-lines, quarter
+# Emissions of greenhouse gases according to IPCC guide-lines (quarterly data, 2019 - 2021 Q2)
 
 This table contains quarterly and annual figures on the total Dutch emissions of carbon dioxide (CO2) and other greenhouse gases (nitrous oxide (N2O), methane (CH4) and fluorinated gases). These are the emission figures used within the Dutch Climate Agreement presented on 28 June 2019, broken down into five climate sectors (Industry, Power, Mobility, Agriculture and Built Environment), and in accordance with internationally established IPCC regulations. The IPCC (Intergovernmental Panel on Climate Change) is an organization of the United Nations that prepares reports on scientific knowledge about climate change.
 
