@@ -1,0 +1,342 @@
+<https://opendata.cbs.nl/id/emission/Total_greenhouse_gases-Total_climate_sectors> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://opendata.cbs.nl/GHGEmission> .
+<https://opendata.cbs.nl/id/emission/Total_greenhouse_gases-Total_climate_sectors> <http://purl.org/dc/terms/identifier> "Total_greenhouse_gases-Total_climate_sectors" .
+<https://opendata.cbs.nl/id/emission/Total_greenhouse_gases-Total_climate_sectors> <http://www.w3.org/2000/01/rdf-schema#label> "Total greenhouse gases - Total climate sectors" .
+<https://opendata.cbs.nl/id/emission/Total_greenhouse_gases-Total_climate_sectors> <https://opendata.cbs.nl/emission> "Total greenhouse gases" .
+<https://opendata.cbs.nl/id/emission/Total_greenhouse_gases-Total_climate_sectors> <https://opendata.cbs.nl/climateSector> "Total climate sectors" .
+<https://opendata.cbs.nl/id/emission/Total_greenhouse_gases-Total_climate_sectors> <https://opendata.cbs.nl/guideline> "IPCC" .
+<https://opendata.cbs.nl/id/emission/Total_greenhouse_gases-Total_climate_sectors> <https://opendata.cbs.nl/emission_2019_q1> "52.7" .
+<https://opendata.cbs.nl/id/emission/Total_greenhouse_gases-Total_climate_sectors> <https://opendata.cbs.nl/emission_2019_q2> "40.8" .
+<https://opendata.cbs.nl/id/emission/Total_greenhouse_gases-Total_climate_sectors> <https://opendata.cbs.nl/emission_2019_q3> "37.8" .
+<https://opendata.cbs.nl/id/emission/Total_greenhouse_gases-Total_climate_sectors> <https://opendata.cbs.nl/emission_2019_q4> "49.4" .
+<https://opendata.cbs.nl/id/emission/Total_greenhouse_gases-Total_climate_sectors> <https://opendata.cbs.nl/emission_2019> "180.7" .
+<https://opendata.cbs.nl/id/emission/Total_greenhouse_gases-Total_climate_sectors> <https://opendata.cbs.nl/emission_2020_q1> "47.4" .
+<https://opendata.cbs.nl/id/emission/Total_greenhouse_gases-Total_climate_sectors> <https://opendata.cbs.nl/emission_2020_q2> "35.0" .
+<https://opendata.cbs.nl/id/emission/Total_greenhouse_gases-Total_climate_sectors> <https://opendata.cbs.nl/emission_2020_q3> "37.1" .
+<https://opendata.cbs.nl/id/emission/Total_greenhouse_gases-Total_climate_sectors> <https://opendata.cbs.nl/emission_2020_q4> "45.0" .
+<https://opendata.cbs.nl/id/emission/Total_greenhouse_gases-Total_climate_sectors> <https://opendata.cbs.nl/emission_2020> "164.5" .
+<https://opendata.cbs.nl/id/emission/Total_greenhouse_gases-Total_climate_sectors> <https://opendata.cbs.nl/emission_2021_q1> "48.5" .
+<https://opendata.cbs.nl/id/emission/Total_greenhouse_gases-Total_climate_sectors> <https://opendata.cbs.nl/emission_2021_q2> "38.9" .
+<https://opendata.cbs.nl/id/emission/Total_greenhouse_gases-Total_climate_sectors> <https://opendata.cbs.nl/UOM> "billion KGs CO2-equivalent" .
+<https://opendata.cbs.nl/id/emission/Total_greenhouse_gases-Industry> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://opendata.cbs.nl/GHGEmission> .
+<https://opendata.cbs.nl/id/emission/Total_greenhouse_gases-Industry> <http://purl.org/dc/terms/identifier> "Total_greenhouse_gases-Industry" .
+<https://opendata.cbs.nl/id/emission/Total_greenhouse_gases-Industry> <http://www.w3.org/2000/01/rdf-schema#label> "Total greenhouse gases - Industry" .
+<https://opendata.cbs.nl/id/emission/Total_greenhouse_gases-Industry> <https://opendata.cbs.nl/emission> "Total greenhouse gases" .
+<https://opendata.cbs.nl/id/emission/Total_greenhouse_gases-Industry> <https://opendata.cbs.nl/climateSector> "Industry" .
+<https://opendata.cbs.nl/id/emission/Total_greenhouse_gases-Industry> <https://opendata.cbs.nl/guideline> "IPCC" .
+<https://opendata.cbs.nl/id/emission/Total_greenhouse_gases-Industry> <https://opendata.cbs.nl/emission_2019_q1> "14.8" .
+<https://opendata.cbs.nl/id/emission/Total_greenhouse_gases-Industry> <https://opendata.cbs.nl/emission_2019_q2> "12.7" .
+<https://opendata.cbs.nl/id/emission/Total_greenhouse_gases-Industry> <https://opendata.cbs.nl/emission_2019_q3> "12.5" .
+<https://opendata.cbs.nl/id/emission/Total_greenhouse_gases-Industry> <https://opendata.cbs.nl/emission_2019_q4> "14.5" .
+<https://opendata.cbs.nl/id/emission/Total_greenhouse_gases-Industry> <https://opendata.cbs.nl/emission_2019> "54.5" .
+<https://opendata.cbs.nl/id/emission/Total_greenhouse_gases-Industry> <https://opendata.cbs.nl/emission_2020_q1> "14.8" .
+<https://opendata.cbs.nl/id/emission/Total_greenhouse_gases-Industry> <https://opendata.cbs.nl/emission_2020_q2> "11.7" .
+<https://opendata.cbs.nl/id/emission/Total_greenhouse_gases-Industry> <https://opendata.cbs.nl/emission_2020_q3> "12.4" .
+<https://opendata.cbs.nl/id/emission/Total_greenhouse_gases-Industry> <https://opendata.cbs.nl/emission_2020_q4> "14.4" .
+<https://opendata.cbs.nl/id/emission/Total_greenhouse_gases-Industry> <https://opendata.cbs.nl/emission_2020> "53.3" .
+<https://opendata.cbs.nl/id/emission/Total_greenhouse_gases-Industry> <https://opendata.cbs.nl/emission_2021_q1> "14.7" .
+<https://opendata.cbs.nl/id/emission/Total_greenhouse_gases-Industry> <https://opendata.cbs.nl/emission_2021_q2> "13.2" .
+<https://opendata.cbs.nl/id/emission/Total_greenhouse_gases-Industry> <https://opendata.cbs.nl/UOM> "billion KGs CO2-equivalent" .
+<https://opendata.cbs.nl/id/emission/Total_greenhouse_gases-Power> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://opendata.cbs.nl/GHGEmission> .
+<https://opendata.cbs.nl/id/emission/Total_greenhouse_gases-Power> <http://purl.org/dc/terms/identifier> "Total_greenhouse_gases-Power" .
+<https://opendata.cbs.nl/id/emission/Total_greenhouse_gases-Power> <http://www.w3.org/2000/01/rdf-schema#label> "Total greenhouse gases - Power" .
+<https://opendata.cbs.nl/id/emission/Total_greenhouse_gases-Power> <https://opendata.cbs.nl/emission> "Total greenhouse gases" .
+<https://opendata.cbs.nl/id/emission/Total_greenhouse_gases-Power> <https://opendata.cbs.nl/climateSector> "Power" .
+<https://opendata.cbs.nl/id/emission/Total_greenhouse_gases-Power> <https://opendata.cbs.nl/guideline> "IPCC" .
+<https://opendata.cbs.nl/id/emission/Total_greenhouse_gases-Power> <https://opendata.cbs.nl/emission_2019_q1> "12.4" .
+<https://opendata.cbs.nl/id/emission/Total_greenhouse_gases-Power> <https://opendata.cbs.nl/emission_2019_q2> "9.1" .
+<https://opendata.cbs.nl/id/emission/Total_greenhouse_gases-Power> <https://opendata.cbs.nl/emission_2019_q3> "8.7" .
+<https://opendata.cbs.nl/id/emission/Total_greenhouse_gases-Power> <https://opendata.cbs.nl/emission_2019_q4> "11.3" .
+<https://opendata.cbs.nl/id/emission/Total_greenhouse_gases-Power> <https://opendata.cbs.nl/emission_2019> "41.5" .
+<https://opendata.cbs.nl/id/emission/Total_greenhouse_gases-Power> <https://opendata.cbs.nl/emission_2020_q1> "8.7" .
+<https://opendata.cbs.nl/id/emission/Total_greenhouse_gases-Power> <https://opendata.cbs.nl/emission_2020_q2> "6.5" .
+<https://opendata.cbs.nl/id/emission/Total_greenhouse_gases-Power> <https://opendata.cbs.nl/emission_2020_q3> "8.8" .
+<https://opendata.cbs.nl/id/emission/Total_greenhouse_gases-Power> <https://opendata.cbs.nl/emission_2020_q4> "8.8" .
+<https://opendata.cbs.nl/id/emission/Total_greenhouse_gases-Power> <https://opendata.cbs.nl/emission_2020> "32.9" .
+<https://opendata.cbs.nl/id/emission/Total_greenhouse_gases-Power> <https://opendata.cbs.nl/emission_2021_q1> "9.3" .
+<https://opendata.cbs.nl/id/emission/Total_greenhouse_gases-Power> <https://opendata.cbs.nl/emission_2021_q2> "6.7" .
+<https://opendata.cbs.nl/id/emission/Total_greenhouse_gases-Power> <https://opendata.cbs.nl/UOM> "billion KGs CO2-equivalent" .
+<https://opendata.cbs.nl/id/emission/Total_greenhouse_gases-Mobility> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://opendata.cbs.nl/GHGEmission> .
+<https://opendata.cbs.nl/id/emission/Total_greenhouse_gases-Mobility> <http://purl.org/dc/terms/identifier> "Total_greenhouse_gases-Mobility" .
+<https://opendata.cbs.nl/id/emission/Total_greenhouse_gases-Mobility> <http://www.w3.org/2000/01/rdf-schema#label> "Total greenhouse gases - Mobility" .
+<https://opendata.cbs.nl/id/emission/Total_greenhouse_gases-Mobility> <https://opendata.cbs.nl/emission> "Total greenhouse gases" .
+<https://opendata.cbs.nl/id/emission/Total_greenhouse_gases-Mobility> <https://opendata.cbs.nl/climateSector> "Mobility" .
+<https://opendata.cbs.nl/id/emission/Total_greenhouse_gases-Mobility> <https://opendata.cbs.nl/guideline> "IPCC" .
+<https://opendata.cbs.nl/id/emission/Total_greenhouse_gases-Mobility> <https://opendata.cbs.nl/emission_2019_q1> "8.6" .
+<https://opendata.cbs.nl/id/emission/Total_greenhouse_gases-Mobility> <https://opendata.cbs.nl/emission_2019_q2> "9.0" .
+<https://opendata.cbs.nl/id/emission/Total_greenhouse_gases-Mobility> <https://opendata.cbs.nl/emission_2019_q3> "8.7" .
+<https://opendata.cbs.nl/id/emission/Total_greenhouse_gases-Mobility> <https://opendata.cbs.nl/emission_2019_q4> "9.0" .
+<https://opendata.cbs.nl/id/emission/Total_greenhouse_gases-Mobility> <https://opendata.cbs.nl/emission_2019> "35.3" .
+<https://opendata.cbs.nl/id/emission/Total_greenhouse_gases-Mobility> <https://opendata.cbs.nl/emission_2020_q1> "8.0" .
+<https://opendata.cbs.nl/id/emission/Total_greenhouse_gases-Mobility> <https://opendata.cbs.nl/emission_2020_q2> "7.2" .
+<https://opendata.cbs.nl/id/emission/Total_greenhouse_gases-Mobility> <https://opendata.cbs.nl/emission_2020_q3> "7.9" .
+<https://opendata.cbs.nl/id/emission/Total_greenhouse_gases-Mobility> <https://opendata.cbs.nl/emission_2020_q4> "7.6" .
+<https://opendata.cbs.nl/id/emission/Total_greenhouse_gases-Mobility> <https://opendata.cbs.nl/emission_2020> "30.7" .
+<https://opendata.cbs.nl/id/emission/Total_greenhouse_gases-Mobility> <https://opendata.cbs.nl/emission_2021_q1> "7.0" .
+<https://opendata.cbs.nl/id/emission/Total_greenhouse_gases-Mobility> <https://opendata.cbs.nl/emission_2021_q2> "7.9" .
+<https://opendata.cbs.nl/id/emission/Total_greenhouse_gases-Mobility> <https://opendata.cbs.nl/UOM> "billion KGs CO2-equivalent" .
+<https://opendata.cbs.nl/id/emission/Total_greenhouse_gases-Agriculture> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://opendata.cbs.nl/GHGEmission> .
+<https://opendata.cbs.nl/id/emission/Total_greenhouse_gases-Agriculture> <http://purl.org/dc/terms/identifier> "Total_greenhouse_gases-Agriculture" .
+<https://opendata.cbs.nl/id/emission/Total_greenhouse_gases-Agriculture> <http://www.w3.org/2000/01/rdf-schema#label> "Total greenhouse gases - Agriculture" .
+<https://opendata.cbs.nl/id/emission/Total_greenhouse_gases-Agriculture> <https://opendata.cbs.nl/emission> "Total greenhouse gases" .
+<https://opendata.cbs.nl/id/emission/Total_greenhouse_gases-Agriculture> <https://opendata.cbs.nl/climateSector> "Agriculture" .
+<https://opendata.cbs.nl/id/emission/Total_greenhouse_gases-Agriculture> <https://opendata.cbs.nl/guideline> "IPCC" .
+<https://opendata.cbs.nl/id/emission/Total_greenhouse_gases-Agriculture> <https://opendata.cbs.nl/emission_2019_q1> "7.4" .
+<https://opendata.cbs.nl/id/emission/Total_greenhouse_gases-Agriculture> <https://opendata.cbs.nl/emission_2019_q2> "6.2" .
+<https://opendata.cbs.nl/id/emission/Total_greenhouse_gases-Agriculture> <https://opendata.cbs.nl/emission_2019_q3> "5.8" .
+<https://opendata.cbs.nl/id/emission/Total_greenhouse_gases-Agriculture> <https://opendata.cbs.nl/emission_2019_q4> "7.0" .
+<https://opendata.cbs.nl/id/emission/Total_greenhouse_gases-Agriculture> <https://opendata.cbs.nl/emission_2019> "26.5" .
+<https://opendata.cbs.nl/id/emission/Total_greenhouse_gases-Agriculture> <https://opendata.cbs.nl/emission_2020_q1> "7.3" .
+<https://opendata.cbs.nl/id/emission/Total_greenhouse_gases-Agriculture> <https://opendata.cbs.nl/emission_2020_q2> "6.0" .
+<https://opendata.cbs.nl/id/emission/Total_greenhouse_gases-Agriculture> <https://opendata.cbs.nl/emission_2020_q3> "5.8" .
+<https://opendata.cbs.nl/id/emission/Total_greenhouse_gases-Agriculture> <https://opendata.cbs.nl/emission_2020_q4> "6.9" .
+<https://opendata.cbs.nl/id/emission/Total_greenhouse_gases-Agriculture> <https://opendata.cbs.nl/emission_2020> "26.1" .
+<https://opendata.cbs.nl/id/emission/Total_greenhouse_gases-Agriculture> <https://opendata.cbs.nl/emission_2021_q1> "7.6" .
+<https://opendata.cbs.nl/id/emission/Total_greenhouse_gases-Agriculture> <https://opendata.cbs.nl/emission_2021_q2> "6.5" .
+<https://opendata.cbs.nl/id/emission/Total_greenhouse_gases-Agriculture> <https://opendata.cbs.nl/UOM> "billion KGs CO2-equivalent" .
+<https://opendata.cbs.nl/id/emission/Total_greenhouse_gases-Built_Environment> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://opendata.cbs.nl/GHGEmission> .
+<https://opendata.cbs.nl/id/emission/Total_greenhouse_gases-Built_Environment> <http://purl.org/dc/terms/identifier> "Total_greenhouse_gases-Built_Environment" .
+<https://opendata.cbs.nl/id/emission/Total_greenhouse_gases-Built_Environment> <http://www.w3.org/2000/01/rdf-schema#label> "Total greenhouse gases - Built Environment" .
+<https://opendata.cbs.nl/id/emission/Total_greenhouse_gases-Built_Environment> <https://opendata.cbs.nl/emission> "Total greenhouse gases" .
+<https://opendata.cbs.nl/id/emission/Total_greenhouse_gases-Built_Environment> <https://opendata.cbs.nl/climateSector> "Built Environment" .
+<https://opendata.cbs.nl/id/emission/Total_greenhouse_gases-Built_Environment> <https://opendata.cbs.nl/guideline> "IPCC" .
+<https://opendata.cbs.nl/id/emission/Total_greenhouse_gases-Built_Environment> <https://opendata.cbs.nl/emission_2019_q1> "9.5" .
+<https://opendata.cbs.nl/id/emission/Total_greenhouse_gases-Built_Environment> <https://opendata.cbs.nl/emission_2019_q2> "3.8" .
+<https://opendata.cbs.nl/id/emission/Total_greenhouse_gases-Built_Environment> <https://opendata.cbs.nl/emission_2019_q3> "2.1" .
+<https://opendata.cbs.nl/id/emission/Total_greenhouse_gases-Built_Environment> <https://opendata.cbs.nl/emission_2019_q4> "7.6" .
+<https://opendata.cbs.nl/id/emission/Total_greenhouse_gases-Built_Environment> <https://opendata.cbs.nl/emission_2019> "23.0" .
+<https://opendata.cbs.nl/id/emission/Total_greenhouse_gases-Built_Environment> <https://opendata.cbs.nl/emission_2020_q1> "8.7" .
+<https://opendata.cbs.nl/id/emission/Total_greenhouse_gases-Built_Environment> <https://opendata.cbs.nl/emission_2020_q2> "3.5" .
+<https://opendata.cbs.nl/id/emission/Total_greenhouse_gases-Built_Environment> <https://opendata.cbs.nl/emission_2020_q3> "2.1" .
+<https://opendata.cbs.nl/id/emission/Total_greenhouse_gases-Built_Environment> <https://opendata.cbs.nl/emission_2020_q4> "7.2" .
+<https://opendata.cbs.nl/id/emission/Total_greenhouse_gases-Built_Environment> <https://opendata.cbs.nl/emission_2020> "21.6" .
+<https://opendata.cbs.nl/id/emission/Total_greenhouse_gases-Built_Environment> <https://opendata.cbs.nl/emission_2021_q1> "9.9" .
+<https://opendata.cbs.nl/id/emission/Total_greenhouse_gases-Built_Environment> <https://opendata.cbs.nl/emission_2021_q2> "4.7" .
+<https://opendata.cbs.nl/id/emission/Total_greenhouse_gases-Built_Environment> <https://opendata.cbs.nl/UOM> "billion KGs CO2-equivalent" .
+<https://opendata.cbs.nl/id/emission/Carbon_dioxide__CO2_-Total_climate_sectors> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://opendata.cbs.nl/GHGEmission> .
+<https://opendata.cbs.nl/id/emission/Carbon_dioxide__CO2_-Total_climate_sectors> <http://purl.org/dc/terms/identifier> "Carbon_dioxide__CO2_-Total_climate_sectors" .
+<https://opendata.cbs.nl/id/emission/Carbon_dioxide__CO2_-Total_climate_sectors> <http://www.w3.org/2000/01/rdf-schema#label> "Carbon dioxide (CO2) - Total climate sectors" .
+<https://opendata.cbs.nl/id/emission/Carbon_dioxide__CO2_-Total_climate_sectors> <https://opendata.cbs.nl/emission> "Carbon dioxide (CO2)" .
+<https://opendata.cbs.nl/id/emission/Carbon_dioxide__CO2_-Total_climate_sectors> <https://opendata.cbs.nl/climateSector> "Total climate sectors" .
+<https://opendata.cbs.nl/id/emission/Carbon_dioxide__CO2_-Total_climate_sectors> <https://opendata.cbs.nl/guideline> "IPCC" .
+<https://opendata.cbs.nl/id/emission/Carbon_dioxide__CO2_-Total_climate_sectors> <https://opendata.cbs.nl/emission_2019_q1> "45.8" .
+<https://opendata.cbs.nl/id/emission/Carbon_dioxide__CO2_-Total_climate_sectors> <https://opendata.cbs.nl/emission_2019_q2> "34.0" .
+<https://opendata.cbs.nl/id/emission/Carbon_dioxide__CO2_-Total_climate_sectors> <https://opendata.cbs.nl/emission_2019_q3> "31.2" .
+<https://opendata.cbs.nl/id/emission/Carbon_dioxide__CO2_-Total_climate_sectors> <https://opendata.cbs.nl/emission_2019_q4> "42.5" .
+<https://opendata.cbs.nl/id/emission/Carbon_dioxide__CO2_-Total_climate_sectors> <https://opendata.cbs.nl/emission_2019> "153.6" .
+<https://opendata.cbs.nl/id/emission/Carbon_dioxide__CO2_-Total_climate_sectors> <https://opendata.cbs.nl/emission_2020_q1> "40.7" .
+<https://opendata.cbs.nl/id/emission/Carbon_dioxide__CO2_-Total_climate_sectors> <https://opendata.cbs.nl/emission_2020_q2> "28.5" .
+<https://opendata.cbs.nl/id/emission/Carbon_dioxide__CO2_-Total_climate_sectors> <https://opendata.cbs.nl/emission_2020_q3> "30.6" .
+<https://opendata.cbs.nl/id/emission/Carbon_dioxide__CO2_-Total_climate_sectors> <https://opendata.cbs.nl/emission_2020_q4> "38.3" .
+<https://opendata.cbs.nl/id/emission/Carbon_dioxide__CO2_-Total_climate_sectors> <https://opendata.cbs.nl/emission_2020> "138.1" .
+<https://opendata.cbs.nl/id/emission/Carbon_dioxide__CO2_-Total_climate_sectors> <https://opendata.cbs.nl/emission_2021_q1> "41.7" .
+<https://opendata.cbs.nl/id/emission/Carbon_dioxide__CO2_-Total_climate_sectors> <https://opendata.cbs.nl/emission_2021_q2> "32.3" .
+<https://opendata.cbs.nl/id/emission/Carbon_dioxide__CO2_-Total_climate_sectors> <https://opendata.cbs.nl/UOM> "billion KGs CO2-equivalent" .
+<https://opendata.cbs.nl/id/emission/Carbon_dioxide__CO2_-Industry> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://opendata.cbs.nl/GHGEmission> .
+<https://opendata.cbs.nl/id/emission/Carbon_dioxide__CO2_-Industry> <http://purl.org/dc/terms/identifier> "Carbon_dioxide__CO2_-Industry" .
+<https://opendata.cbs.nl/id/emission/Carbon_dioxide__CO2_-Industry> <http://www.w3.org/2000/01/rdf-schema#label> "Carbon dioxide (CO2) - Industry" .
+<https://opendata.cbs.nl/id/emission/Carbon_dioxide__CO2_-Industry> <https://opendata.cbs.nl/emission> "Carbon dioxide (CO2)" .
+<https://opendata.cbs.nl/id/emission/Carbon_dioxide__CO2_-Industry> <https://opendata.cbs.nl/climateSector> "Industry" .
+<https://opendata.cbs.nl/id/emission/Carbon_dioxide__CO2_-Industry> <https://opendata.cbs.nl/guideline> "IPCC" .
+<https://opendata.cbs.nl/id/emission/Carbon_dioxide__CO2_-Industry> <https://opendata.cbs.nl/emission_2019_q1> "13.0" .
+<https://opendata.cbs.nl/id/emission/Carbon_dioxide__CO2_-Industry> <https://opendata.cbs.nl/emission_2019_q2> "10.9" .
+<https://opendata.cbs.nl/id/emission/Carbon_dioxide__CO2_-Industry> <https://opendata.cbs.nl/emission_2019_q3> "10.8" .
+<https://opendata.cbs.nl/id/emission/Carbon_dioxide__CO2_-Industry> <https://opendata.cbs.nl/emission_2019_q4> "12.8" .
+<https://opendata.cbs.nl/id/emission/Carbon_dioxide__CO2_-Industry> <https://opendata.cbs.nl/emission_2019> "47.4" .
+<https://opendata.cbs.nl/id/emission/Carbon_dioxide__CO2_-Industry> <https://opendata.cbs.nl/emission_2020_q1> "13.1" .
+<https://opendata.cbs.nl/id/emission/Carbon_dioxide__CO2_-Industry> <https://opendata.cbs.nl/emission_2020_q2> "10.1" .
+<https://opendata.cbs.nl/id/emission/Carbon_dioxide__CO2_-Industry> <https://opendata.cbs.nl/emission_2020_q3> "10.8" .
+<https://opendata.cbs.nl/id/emission/Carbon_dioxide__CO2_-Industry> <https://opendata.cbs.nl/emission_2020_q4> "12.8" .
+<https://opendata.cbs.nl/id/emission/Carbon_dioxide__CO2_-Industry> <https://opendata.cbs.nl/emission_2020> "46.8" .
+<https://opendata.cbs.nl/id/emission/Carbon_dioxide__CO2_-Industry> <https://opendata.cbs.nl/emission_2021_q1> "13.0" .
+<https://opendata.cbs.nl/id/emission/Carbon_dioxide__CO2_-Industry> <https://opendata.cbs.nl/emission_2021_q2> "11.6" .
+<https://opendata.cbs.nl/id/emission/Carbon_dioxide__CO2_-Industry> <https://opendata.cbs.nl/UOM> "billion KGs CO2-equivalent" .
+<https://opendata.cbs.nl/id/emission/Carbon_dioxide__CO2_-Power> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://opendata.cbs.nl/GHGEmission> .
+<https://opendata.cbs.nl/id/emission/Carbon_dioxide__CO2_-Power> <http://purl.org/dc/terms/identifier> "Carbon_dioxide__CO2_-Power" .
+<https://opendata.cbs.nl/id/emission/Carbon_dioxide__CO2_-Power> <http://www.w3.org/2000/01/rdf-schema#label> "Carbon dioxide (CO2) - Power" .
+<https://opendata.cbs.nl/id/emission/Carbon_dioxide__CO2_-Power> <https://opendata.cbs.nl/emission> "Carbon dioxide (CO2)" .
+<https://opendata.cbs.nl/id/emission/Carbon_dioxide__CO2_-Power> <https://opendata.cbs.nl/climateSector> "Power" .
+<https://opendata.cbs.nl/id/emission/Carbon_dioxide__CO2_-Power> <https://opendata.cbs.nl/guideline> "IPCC" .
+<https://opendata.cbs.nl/id/emission/Carbon_dioxide__CO2_-Power> <https://opendata.cbs.nl/emission_2019_q1> "12.3" .
+<https://opendata.cbs.nl/id/emission/Carbon_dioxide__CO2_-Power> <https://opendata.cbs.nl/emission_2019_q2> "9.1" .
+<https://opendata.cbs.nl/id/emission/Carbon_dioxide__CO2_-Power> <https://opendata.cbs.nl/emission_2019_q3> "8.7" .
+<https://opendata.cbs.nl/id/emission/Carbon_dioxide__CO2_-Power> <https://opendata.cbs.nl/emission_2019_q4> "11.2" .
+<https://opendata.cbs.nl/id/emission/Carbon_dioxide__CO2_-Power> <https://opendata.cbs.nl/emission_2019> "41.3" .
+<https://opendata.cbs.nl/id/emission/Carbon_dioxide__CO2_-Power> <https://opendata.cbs.nl/emission_2020_q1> "8.6" .
+<https://opendata.cbs.nl/id/emission/Carbon_dioxide__CO2_-Power> <https://opendata.cbs.nl/emission_2020_q2> "6.5" .
+<https://opendata.cbs.nl/id/emission/Carbon_dioxide__CO2_-Power> <https://opendata.cbs.nl/emission_2020_q3> "8.8" .
+<https://opendata.cbs.nl/id/emission/Carbon_dioxide__CO2_-Power> <https://opendata.cbs.nl/emission_2020_q4> "8.8" .
+<https://opendata.cbs.nl/id/emission/Carbon_dioxide__CO2_-Power> <https://opendata.cbs.nl/emission_2020> "32.7" .
+<https://opendata.cbs.nl/id/emission/Carbon_dioxide__CO2_-Power> <https://opendata.cbs.nl/emission_2021_q1> "9.2" .
+<https://opendata.cbs.nl/id/emission/Carbon_dioxide__CO2_-Power> <https://opendata.cbs.nl/emission_2021_q2> "6.6" .
+<https://opendata.cbs.nl/id/emission/Carbon_dioxide__CO2_-Power> <https://opendata.cbs.nl/UOM> "billion KGs CO2-equivalent" .
+<https://opendata.cbs.nl/id/emission/Carbon_dioxide__CO2_-Mobility> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://opendata.cbs.nl/GHGEmission> .
+<https://opendata.cbs.nl/id/emission/Carbon_dioxide__CO2_-Mobility> <http://purl.org/dc/terms/identifier> "Carbon_dioxide__CO2_-Mobility" .
+<https://opendata.cbs.nl/id/emission/Carbon_dioxide__CO2_-Mobility> <http://www.w3.org/2000/01/rdf-schema#label> "Carbon dioxide (CO2) - Mobility" .
+<https://opendata.cbs.nl/id/emission/Carbon_dioxide__CO2_-Mobility> <https://opendata.cbs.nl/emission> "Carbon dioxide (CO2)" .
+<https://opendata.cbs.nl/id/emission/Carbon_dioxide__CO2_-Mobility> <https://opendata.cbs.nl/climateSector> "Mobility" .
+<https://opendata.cbs.nl/id/emission/Carbon_dioxide__CO2_-Mobility> <https://opendata.cbs.nl/guideline> "IPCC" .
+<https://opendata.cbs.nl/id/emission/Carbon_dioxide__CO2_-Mobility> <https://opendata.cbs.nl/emission_2019_q1> "8.5" .
+<https://opendata.cbs.nl/id/emission/Carbon_dioxide__CO2_-Mobility> <https://opendata.cbs.nl/emission_2019_q2> "8.8" .
+<https://opendata.cbs.nl/id/emission/Carbon_dioxide__CO2_-Mobility> <https://opendata.cbs.nl/emission_2019_q3> "8.5" .
+<https://opendata.cbs.nl/id/emission/Carbon_dioxide__CO2_-Mobility> <https://opendata.cbs.nl/emission_2019_q4> "8.8" .
+<https://opendata.cbs.nl/id/emission/Carbon_dioxide__CO2_-Mobility> <https://opendata.cbs.nl/emission_2019> "34.6" .
+<https://opendata.cbs.nl/id/emission/Carbon_dioxide__CO2_-Mobility> <https://opendata.cbs.nl/emission_2020_q1> "7.8" .
+<https://opendata.cbs.nl/id/emission/Carbon_dioxide__CO2_-Mobility> <https://opendata.cbs.nl/emission_2020_q2> "7.0" .
+<https://opendata.cbs.nl/id/emission/Carbon_dioxide__CO2_-Mobility> <https://opendata.cbs.nl/emission_2020_q3> "7.7" .
+<https://opendata.cbs.nl/id/emission/Carbon_dioxide__CO2_-Mobility> <https://opendata.cbs.nl/emission_2020_q4> "7.5" .
+<https://opendata.cbs.nl/id/emission/Carbon_dioxide__CO2_-Mobility> <https://opendata.cbs.nl/emission_2020> "30.0" .
+<https://opendata.cbs.nl/id/emission/Carbon_dioxide__CO2_-Mobility> <https://opendata.cbs.nl/emission_2021_q1> "6.9" .
+<https://opendata.cbs.nl/id/emission/Carbon_dioxide__CO2_-Mobility> <https://opendata.cbs.nl/emission_2021_q2> "7.7" .
+<https://opendata.cbs.nl/id/emission/Carbon_dioxide__CO2_-Mobility> <https://opendata.cbs.nl/UOM> "billion KGs CO2-equivalent" .
+<https://opendata.cbs.nl/id/emission/Carbon_dioxide__CO2_-Agriculture> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://opendata.cbs.nl/GHGEmission> .
+<https://opendata.cbs.nl/id/emission/Carbon_dioxide__CO2_-Agriculture> <http://purl.org/dc/terms/identifier> "Carbon_dioxide__CO2_-Agriculture" .
+<https://opendata.cbs.nl/id/emission/Carbon_dioxide__CO2_-Agriculture> <http://www.w3.org/2000/01/rdf-schema#label> "Carbon dioxide (CO2) - Agriculture" .
+<https://opendata.cbs.nl/id/emission/Carbon_dioxide__CO2_-Agriculture> <https://opendata.cbs.nl/emission> "Carbon dioxide (CO2)" .
+<https://opendata.cbs.nl/id/emission/Carbon_dioxide__CO2_-Agriculture> <https://opendata.cbs.nl/climateSector> "Agriculture" .
+<https://opendata.cbs.nl/id/emission/Carbon_dioxide__CO2_-Agriculture> <https://opendata.cbs.nl/guideline> "IPCC" .
+<https://opendata.cbs.nl/id/emission/Carbon_dioxide__CO2_-Agriculture> <https://opendata.cbs.nl/emission_2019_q1> "2.7" .
+<https://opendata.cbs.nl/id/emission/Carbon_dioxide__CO2_-Agriculture> <https://opendata.cbs.nl/emission_2019_q2> "1.6" .
+<https://opendata.cbs.nl/id/emission/Carbon_dioxide__CO2_-Agriculture> <https://opendata.cbs.nl/emission_2019_q3> "1.2" .
+<https://opendata.cbs.nl/id/emission/Carbon_dioxide__CO2_-Agriculture> <https://opendata.cbs.nl/emission_2019_q4> "2.3" .
+<https://opendata.cbs.nl/id/emission/Carbon_dioxide__CO2_-Agriculture> <https://opendata.cbs.nl/emission_2019> "7.8" .
+<https://opendata.cbs.nl/id/emission/Carbon_dioxide__CO2_-Agriculture> <https://opendata.cbs.nl/emission_2020_q1> "2.6" .
+<https://opendata.cbs.nl/id/emission/Carbon_dioxide__CO2_-Agriculture> <https://opendata.cbs.nl/emission_2020_q2> "1.4" .
+<https://opendata.cbs.nl/id/emission/Carbon_dioxide__CO2_-Agriculture> <https://opendata.cbs.nl/emission_2020_q3> "1.3" .
+<https://opendata.cbs.nl/id/emission/Carbon_dioxide__CO2_-Agriculture> <https://opendata.cbs.nl/emission_2020_q4> "2.2" .
+<https://opendata.cbs.nl/id/emission/Carbon_dioxide__CO2_-Agriculture> <https://opendata.cbs.nl/emission_2020> "7.5" .
+<https://opendata.cbs.nl/id/emission/Carbon_dioxide__CO2_-Agriculture> <https://opendata.cbs.nl/emission_2021_q1> "2.9" .
+<https://opendata.cbs.nl/id/emission/Carbon_dioxide__CO2_-Agriculture> <https://opendata.cbs.nl/emission_2021_q2> "1.8" .
+<https://opendata.cbs.nl/id/emission/Carbon_dioxide__CO2_-Agriculture> <https://opendata.cbs.nl/UOM> "billion KGs CO2-equivalent" .
+<https://opendata.cbs.nl/id/emission/Carbon_dioxide__CO2_-Built_Environment> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://opendata.cbs.nl/GHGEmission> .
+<https://opendata.cbs.nl/id/emission/Carbon_dioxide__CO2_-Built_Environment> <http://purl.org/dc/terms/identifier> "Carbon_dioxide__CO2_-Built_Environment" .
+<https://opendata.cbs.nl/id/emission/Carbon_dioxide__CO2_-Built_Environment> <http://www.w3.org/2000/01/rdf-schema#label> "Carbon dioxide (CO2) - Built Environment" .
+<https://opendata.cbs.nl/id/emission/Carbon_dioxide__CO2_-Built_Environment> <https://opendata.cbs.nl/emission> "Carbon dioxide (CO2)" .
+<https://opendata.cbs.nl/id/emission/Carbon_dioxide__CO2_-Built_Environment> <https://opendata.cbs.nl/climateSector> "Built Environment" .
+<https://opendata.cbs.nl/id/emission/Carbon_dioxide__CO2_-Built_Environment> <https://opendata.cbs.nl/guideline> "IPCC" .
+<https://opendata.cbs.nl/id/emission/Carbon_dioxide__CO2_-Built_Environment> <https://opendata.cbs.nl/emission_2019_q1> "9.3" .
+<https://opendata.cbs.nl/id/emission/Carbon_dioxide__CO2_-Built_Environment> <https://opendata.cbs.nl/emission_2019_q2> "3.7" .
+<https://opendata.cbs.nl/id/emission/Carbon_dioxide__CO2_-Built_Environment> <https://opendata.cbs.nl/emission_2019_q3> "2.0" .
+<https://opendata.cbs.nl/id/emission/Carbon_dioxide__CO2_-Built_Environment> <https://opendata.cbs.nl/emission_2019_q4> "7.5" .
+<https://opendata.cbs.nl/id/emission/Carbon_dioxide__CO2_-Built_Environment> <https://opendata.cbs.nl/emission_2019> "22.5" .
+<https://opendata.cbs.nl/id/emission/Carbon_dioxide__CO2_-Built_Environment> <https://opendata.cbs.nl/emission_2020_q1> "8.5" .
+<https://opendata.cbs.nl/id/emission/Carbon_dioxide__CO2_-Built_Environment> <https://opendata.cbs.nl/emission_2020_q2> "3.4" .
+<https://opendata.cbs.nl/id/emission/Carbon_dioxide__CO2_-Built_Environment> <https://opendata.cbs.nl/emission_2020_q3> "2.0" .
+<https://opendata.cbs.nl/id/emission/Carbon_dioxide__CO2_-Built_Environment> <https://opendata.cbs.nl/emission_2020_q4> "7.1" .
+<https://opendata.cbs.nl/id/emission/Carbon_dioxide__CO2_-Built_Environment> <https://opendata.cbs.nl/emission_2020> "21.1" .
+<https://opendata.cbs.nl/id/emission/Carbon_dioxide__CO2_-Built_Environment> <https://opendata.cbs.nl/emission_2021_q1> "9.7" .
+<https://opendata.cbs.nl/id/emission/Carbon_dioxide__CO2_-Built_Environment> <https://opendata.cbs.nl/emission_2021_q2> "4.6" .
+<https://opendata.cbs.nl/id/emission/Carbon_dioxide__CO2_-Built_Environment> <https://opendata.cbs.nl/UOM> "billion KGs CO2-equivalent" .
+<https://opendata.cbs.nl/id/emission/Other_greenhouse_gases-Total_climate_sectors> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://opendata.cbs.nl/GHGEmission> .
+<https://opendata.cbs.nl/id/emission/Other_greenhouse_gases-Total_climate_sectors> <http://purl.org/dc/terms/identifier> "Other_greenhouse_gases-Total_climate_sectors" .
+<https://opendata.cbs.nl/id/emission/Other_greenhouse_gases-Total_climate_sectors> <http://www.w3.org/2000/01/rdf-schema#label> "Other greenhouse gases - Total climate sectors" .
+<https://opendata.cbs.nl/id/emission/Other_greenhouse_gases-Total_climate_sectors> <https://opendata.cbs.nl/emission> "Other greenhouse gases" .
+<https://opendata.cbs.nl/id/emission/Other_greenhouse_gases-Total_climate_sectors> <https://opendata.cbs.nl/climateSector> "Total climate sectors" .
+<https://opendata.cbs.nl/id/emission/Other_greenhouse_gases-Total_climate_sectors> <https://opendata.cbs.nl/guideline> "IPCC" .
+<https://opendata.cbs.nl/id/emission/Other_greenhouse_gases-Total_climate_sectors> <https://opendata.cbs.nl/emission_2019_q1> "6.9" .
+<https://opendata.cbs.nl/id/emission/Other_greenhouse_gases-Total_climate_sectors> <https://opendata.cbs.nl/emission_2019_q2> "6.8" .
+<https://opendata.cbs.nl/id/emission/Other_greenhouse_gases-Total_climate_sectors> <https://opendata.cbs.nl/emission_2019_q3> "6.6" .
+<https://opendata.cbs.nl/id/emission/Other_greenhouse_gases-Total_climate_sectors> <https://opendata.cbs.nl/emission_2019_q4> "6.9" .
+<https://opendata.cbs.nl/id/emission/Other_greenhouse_gases-Total_climate_sectors> <https://opendata.cbs.nl/emission_2019> "27.2" .
+<https://opendata.cbs.nl/id/emission/Other_greenhouse_gases-Total_climate_sectors> <https://opendata.cbs.nl/emission_2020_q1> "6.8" .
+<https://opendata.cbs.nl/id/emission/Other_greenhouse_gases-Total_climate_sectors> <https://opendata.cbs.nl/emission_2020_q2> "6.5" .
+<https://opendata.cbs.nl/id/emission/Other_greenhouse_gases-Total_climate_sectors> <https://opendata.cbs.nl/emission_2020_q3> "6.4" .
+<https://opendata.cbs.nl/id/emission/Other_greenhouse_gases-Total_climate_sectors> <https://opendata.cbs.nl/emission_2020_q4> "6.7" .
+<https://opendata.cbs.nl/id/emission/Other_greenhouse_gases-Total_climate_sectors> <https://opendata.cbs.nl/emission_2020> "26.4" .
+<https://opendata.cbs.nl/id/emission/Other_greenhouse_gases-Total_climate_sectors> <https://opendata.cbs.nl/emission_2021_q1> "6.8" .
+<https://opendata.cbs.nl/id/emission/Other_greenhouse_gases-Total_climate_sectors> <https://opendata.cbs.nl/emission_2021_q2> "6.6" .
+<https://opendata.cbs.nl/id/emission/Other_greenhouse_gases-Total_climate_sectors> <https://opendata.cbs.nl/UOM> "billion KGs CO2-equivalent" .
+<https://opendata.cbs.nl/id/emission/Other_greenhouse_gases-Industry> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://opendata.cbs.nl/GHGEmission> .
+<https://opendata.cbs.nl/id/emission/Other_greenhouse_gases-Industry> <http://purl.org/dc/terms/identifier> "Other_greenhouse_gases-Industry" .
+<https://opendata.cbs.nl/id/emission/Other_greenhouse_gases-Industry> <http://www.w3.org/2000/01/rdf-schema#label> "Other greenhouse gases - Industry" .
+<https://opendata.cbs.nl/id/emission/Other_greenhouse_gases-Industry> <https://opendata.cbs.nl/emission> "Other greenhouse gases" .
+<https://opendata.cbs.nl/id/emission/Other_greenhouse_gases-Industry> <https://opendata.cbs.nl/climateSector> "Industry" .
+<https://opendata.cbs.nl/id/emission/Other_greenhouse_gases-Industry> <https://opendata.cbs.nl/guideline> "IPCC" .
+<https://opendata.cbs.nl/id/emission/Other_greenhouse_gases-Industry> <https://opendata.cbs.nl/emission_2019_q1> "1.8" .
+<https://opendata.cbs.nl/id/emission/Other_greenhouse_gases-Industry> <https://opendata.cbs.nl/emission_2019_q2> "1.8" .
+<https://opendata.cbs.nl/id/emission/Other_greenhouse_gases-Industry> <https://opendata.cbs.nl/emission_2019_q3> "1.7" .
+<https://opendata.cbs.nl/id/emission/Other_greenhouse_gases-Industry> <https://opendata.cbs.nl/emission_2019_q4> "1.7" .
+<https://opendata.cbs.nl/id/emission/Other_greenhouse_gases-Industry> <https://opendata.cbs.nl/emission_2019> "7.0" .
+<https://opendata.cbs.nl/id/emission/Other_greenhouse_gases-Industry> <https://opendata.cbs.nl/emission_2020_q1> "1.6" .
+<https://opendata.cbs.nl/id/emission/Other_greenhouse_gases-Industry> <https://opendata.cbs.nl/emission_2020_q2> "1.6" .
+<https://opendata.cbs.nl/id/emission/Other_greenhouse_gases-Industry> <https://opendata.cbs.nl/emission_2020_q3> "1.6" .
+<https://opendata.cbs.nl/id/emission/Other_greenhouse_gases-Industry> <https://opendata.cbs.nl/emission_2020_q4> "1.6" .
+<https://opendata.cbs.nl/id/emission/Other_greenhouse_gases-Industry> <https://opendata.cbs.nl/emission_2020> "6.5" .
+<https://opendata.cbs.nl/id/emission/Other_greenhouse_gases-Industry> <https://opendata.cbs.nl/emission_2021_q1> "1.7" .
+<https://opendata.cbs.nl/id/emission/Other_greenhouse_gases-Industry> <https://opendata.cbs.nl/emission_2021_q2> "1.7" .
+<https://opendata.cbs.nl/id/emission/Other_greenhouse_gases-Industry> <https://opendata.cbs.nl/UOM> "billion KGs CO2-equivalent" .
+<https://opendata.cbs.nl/id/emission/Other_greenhouse_gases-Power> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://opendata.cbs.nl/GHGEmission> .
+<https://opendata.cbs.nl/id/emission/Other_greenhouse_gases-Power> <http://purl.org/dc/terms/identifier> "Other_greenhouse_gases-Power" .
+<https://opendata.cbs.nl/id/emission/Other_greenhouse_gases-Power> <http://www.w3.org/2000/01/rdf-schema#label> "Other greenhouse gases - Power" .
+<https://opendata.cbs.nl/id/emission/Other_greenhouse_gases-Power> <https://opendata.cbs.nl/emission> "Other greenhouse gases" .
+<https://opendata.cbs.nl/id/emission/Other_greenhouse_gases-Power> <https://opendata.cbs.nl/climateSector> "Power" .
+<https://opendata.cbs.nl/id/emission/Other_greenhouse_gases-Power> <https://opendata.cbs.nl/guideline> "IPCC" .
+<https://opendata.cbs.nl/id/emission/Other_greenhouse_gases-Power> <https://opendata.cbs.nl/emission_2019_q1> "0.1" .
+<https://opendata.cbs.nl/id/emission/Other_greenhouse_gases-Power> <https://opendata.cbs.nl/emission_2019_q2> "0.0" .
+<https://opendata.cbs.nl/id/emission/Other_greenhouse_gases-Power> <https://opendata.cbs.nl/emission_2019_q3> "0.0" .
+<https://opendata.cbs.nl/id/emission/Other_greenhouse_gases-Power> <https://opendata.cbs.nl/emission_2019_q4> "0.1" .
+<https://opendata.cbs.nl/id/emission/Other_greenhouse_gases-Power> <https://opendata.cbs.nl/emission_2019> "0.2" .
+<https://opendata.cbs.nl/id/emission/Other_greenhouse_gases-Power> <https://opendata.cbs.nl/emission_2020_q1> "0.1" .
+<https://opendata.cbs.nl/id/emission/Other_greenhouse_gases-Power> <https://opendata.cbs.nl/emission_2020_q2> "0.1" .
+<https://opendata.cbs.nl/id/emission/Other_greenhouse_gases-Power> <https://opendata.cbs.nl/emission_2020_q3> "0.1" .
+<https://opendata.cbs.nl/id/emission/Other_greenhouse_gases-Power> <https://opendata.cbs.nl/emission_2020_q4> "0.1" .
+<https://opendata.cbs.nl/id/emission/Other_greenhouse_gases-Power> <https://opendata.cbs.nl/emission_2020> "0.2" .
+<https://opendata.cbs.nl/id/emission/Other_greenhouse_gases-Power> <https://opendata.cbs.nl/emission_2021_q1> "0.1" .
+<https://opendata.cbs.nl/id/emission/Other_greenhouse_gases-Power> <https://opendata.cbs.nl/emission_2021_q2> "0.1" .
+<https://opendata.cbs.nl/id/emission/Other_greenhouse_gases-Power> <https://opendata.cbs.nl/UOM> "billion KGs CO2-equivalent" .
+<https://opendata.cbs.nl/id/emission/Other_greenhouse_gases-Mobility> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://opendata.cbs.nl/GHGEmission> .
+<https://opendata.cbs.nl/id/emission/Other_greenhouse_gases-Mobility> <http://purl.org/dc/terms/identifier> "Other_greenhouse_gases-Mobility" .
+<https://opendata.cbs.nl/id/emission/Other_greenhouse_gases-Mobility> <http://www.w3.org/2000/01/rdf-schema#label> "Other greenhouse gases - Mobility" .
+<https://opendata.cbs.nl/id/emission/Other_greenhouse_gases-Mobility> <https://opendata.cbs.nl/emission> "Other greenhouse gases" .
+<https://opendata.cbs.nl/id/emission/Other_greenhouse_gases-Mobility> <https://opendata.cbs.nl/climateSector> "Mobility" .
+<https://opendata.cbs.nl/id/emission/Other_greenhouse_gases-Mobility> <https://opendata.cbs.nl/guideline> "IPCC" .
+<https://opendata.cbs.nl/id/emission/Other_greenhouse_gases-Mobility> <https://opendata.cbs.nl/emission_2019_q1> "0.2" .
+<https://opendata.cbs.nl/id/emission/Other_greenhouse_gases-Mobility> <https://opendata.cbs.nl/emission_2019_q2> "0.2" .
+<https://opendata.cbs.nl/id/emission/Other_greenhouse_gases-Mobility> <https://opendata.cbs.nl/emission_2019_q3> "0.2" .
+<https://opendata.cbs.nl/id/emission/Other_greenhouse_gases-Mobility> <https://opendata.cbs.nl/emission_2019_q4> "0.2" .
+<https://opendata.cbs.nl/id/emission/Other_greenhouse_gases-Mobility> <https://opendata.cbs.nl/emission_2019> "0.7" .
+<https://opendata.cbs.nl/id/emission/Other_greenhouse_gases-Mobility> <https://opendata.cbs.nl/emission_2020_q1> "0.2" .
+<https://opendata.cbs.nl/id/emission/Other_greenhouse_gases-Mobility> <https://opendata.cbs.nl/emission_2020_q2> "0.2" .
+<https://opendata.cbs.nl/id/emission/Other_greenhouse_gases-Mobility> <https://opendata.cbs.nl/emission_2020_q3> "0.2" .
+<https://opendata.cbs.nl/id/emission/Other_greenhouse_gases-Mobility> <https://opendata.cbs.nl/emission_2020_q4> "0.2" .
+<https://opendata.cbs.nl/id/emission/Other_greenhouse_gases-Mobility> <https://opendata.cbs.nl/emission_2020> "0.7" .
+<https://opendata.cbs.nl/id/emission/Other_greenhouse_gases-Mobility> <https://opendata.cbs.nl/emission_2021_q1> "0.2" .
+<https://opendata.cbs.nl/id/emission/Other_greenhouse_gases-Mobility> <https://opendata.cbs.nl/emission_2021_q2> "0.2" .
+<https://opendata.cbs.nl/id/emission/Other_greenhouse_gases-Mobility> <https://opendata.cbs.nl/UOM> "billion KGs CO2-equivalent" .
+<https://opendata.cbs.nl/id/emission/Other_greenhouse_gases-Agriculture> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://opendata.cbs.nl/GHGEmission> .
+<https://opendata.cbs.nl/id/emission/Other_greenhouse_gases-Agriculture> <http://purl.org/dc/terms/identifier> "Other_greenhouse_gases-Agriculture" .
+<https://opendata.cbs.nl/id/emission/Other_greenhouse_gases-Agriculture> <http://www.w3.org/2000/01/rdf-schema#label> "Other greenhouse gases - Agriculture" .
+<https://opendata.cbs.nl/id/emission/Other_greenhouse_gases-Agriculture> <https://opendata.cbs.nl/emission> "Other greenhouse gases" .
+<https://opendata.cbs.nl/id/emission/Other_greenhouse_gases-Agriculture> <https://opendata.cbs.nl/climateSector> "Agriculture" .
+<https://opendata.cbs.nl/id/emission/Other_greenhouse_gases-Agriculture> <https://opendata.cbs.nl/guideline> "IPCC" .
+<https://opendata.cbs.nl/id/emission/Other_greenhouse_gases-Agriculture> <https://opendata.cbs.nl/emission_2019_q1> "4.7" .
+<https://opendata.cbs.nl/id/emission/Other_greenhouse_gases-Agriculture> <https://opendata.cbs.nl/emission_2019_q2> "4.7" .
+<https://opendata.cbs.nl/id/emission/Other_greenhouse_gases-Agriculture> <https://opendata.cbs.nl/emission_2019_q3> "4.6" .
+<https://opendata.cbs.nl/id/emission/Other_greenhouse_gases-Agriculture> <https://opendata.cbs.nl/emission_2019_q4> "4.7" .
+<https://opendata.cbs.nl/id/emission/Other_greenhouse_gases-Agriculture> <https://opendata.cbs.nl/emission_2019> "18.7" .
+<https://opendata.cbs.nl/id/emission/Other_greenhouse_gases-Agriculture> <https://opendata.cbs.nl/emission_2020_q1> "4.7" .
+<https://opendata.cbs.nl/id/emission/Other_greenhouse_gases-Agriculture> <https://opendata.cbs.nl/emission_2020_q2> "4.6" .
+<https://opendata.cbs.nl/id/emission/Other_greenhouse_gases-Agriculture> <https://opendata.cbs.nl/emission_2020_q3> "4.5" .
+<https://opendata.cbs.nl/id/emission/Other_greenhouse_gases-Agriculture> <https://opendata.cbs.nl/emission_2020_q4> "4.7" .
+<https://opendata.cbs.nl/id/emission/Other_greenhouse_gases-Agriculture> <https://opendata.cbs.nl/emission_2020> "18.5" .
+<https://opendata.cbs.nl/id/emission/Other_greenhouse_gases-Agriculture> <https://opendata.cbs.nl/emission_2021_q1> "4.8" .
+<https://opendata.cbs.nl/id/emission/Other_greenhouse_gases-Agriculture> <https://opendata.cbs.nl/emission_2021_q2> "4.6" .
+<https://opendata.cbs.nl/id/emission/Other_greenhouse_gases-Agriculture> <https://opendata.cbs.nl/UOM> "billion KGs CO2-equivalent" .
+<https://opendata.cbs.nl/id/emission/Other_greenhouse_gases-Built_Environment> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://opendata.cbs.nl/GHGEmission> .
+<https://opendata.cbs.nl/id/emission/Other_greenhouse_gases-Built_Environment> <http://purl.org/dc/terms/identifier> "Other_greenhouse_gases-Built_Environment" .
+<https://opendata.cbs.nl/id/emission/Other_greenhouse_gases-Built_Environment> <http://www.w3.org/2000/01/rdf-schema#label> "Other greenhouse gases - Built Environment" .
+<https://opendata.cbs.nl/id/emission/Other_greenhouse_gases-Built_Environment> <https://opendata.cbs.nl/emission> "Other greenhouse gases" .
+<https://opendata.cbs.nl/id/emission/Other_greenhouse_gases-Built_Environment> <https://opendata.cbs.nl/climateSector> "Built Environment" .
+<https://opendata.cbs.nl/id/emission/Other_greenhouse_gases-Built_Environment> <https://opendata.cbs.nl/guideline> "IPCC" .
+<https://opendata.cbs.nl/id/emission/Other_greenhouse_gases-Built_Environment> <https://opendata.cbs.nl/emission_2019_q1> "0.2" .
+<https://opendata.cbs.nl/id/emission/Other_greenhouse_gases-Built_Environment> <https://opendata.cbs.nl/emission_2019_q2> "0.1" .
+<https://opendata.cbs.nl/id/emission/Other_greenhouse_gases-Built_Environment> <https://opendata.cbs.nl/emission_2019_q3> "0.1" .
+<https://opendata.cbs.nl/id/emission/Other_greenhouse_gases-Built_Environment> <https://opendata.cbs.nl/emission_2019_q4> "0.2" .
+<https://opendata.cbs.nl/id/emission/Other_greenhouse_gases-Built_Environment> <https://opendata.cbs.nl/emission_2019> "0.5" .
+<https://opendata.cbs.nl/id/emission/Other_greenhouse_gases-Built_Environment> <https://opendata.cbs.nl/emission_2020_q1> "0.2" .
+<https://opendata.cbs.nl/id/emission/Other_greenhouse_gases-Built_Environment> <https://opendata.cbs.nl/emission_2020_q2> "0.1" .
+<https://opendata.cbs.nl/id/emission/Other_greenhouse_gases-Built_Environment> <https://opendata.cbs.nl/emission_2020_q3> "0.1" .
+<https://opendata.cbs.nl/id/emission/Other_greenhouse_gases-Built_Environment> <https://opendata.cbs.nl/emission_2020_q4> "0.2" .
+<https://opendata.cbs.nl/id/emission/Other_greenhouse_gases-Built_Environment> <https://opendata.cbs.nl/emission_2020> "0.5" .
+<https://opendata.cbs.nl/id/emission/Other_greenhouse_gases-Built_Environment> <https://opendata.cbs.nl/emission_2021_q1> "0.2" .
+<https://opendata.cbs.nl/id/emission/Other_greenhouse_gases-Built_Environment> <https://opendata.cbs.nl/emission_2021_q2> "0.1" .
+<https://opendata.cbs.nl/id/emission/Other_greenhouse_gases-Built_Environment> <https://opendata.cbs.nl/UOM> "billion KGs CO2-equivalent" .
